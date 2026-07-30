@@ -12,3 +12,6 @@ console.log(b);
   console.log("square=",c);
    const d=c.reduce((s,i)=>(s+i)) ;
    console.log(d);
+
+
+   
