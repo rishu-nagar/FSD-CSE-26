@@ -1,5 +1,10 @@
 function register (){
 //if u want to delay the data
+
+
+return new Promise ((resolve,reject)=>{
+    
+})
 setTimeout(() => {
     console.log("register here ")
 }, 10000)
